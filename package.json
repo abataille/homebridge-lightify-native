@@ -1,0 +1,33 @@
+{
+    "name": "homebridge-lightify-local",
+    "version": "0.0.1",
+    "description": "Lightify Plugin for homebridge: https://github.com/nfarina/homebridge",
+    "license": "MIT",
+    "keywords": [
+        "homebridge-plugin"
+    ],
+    "engines": {
+        "node": ">=0.12.0",
+        "homebridge": ">=0.2.0"
+    },
+    "author": {
+        "name": "A. Bataille"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/abataille/homebridge-lightify-native.git"
+    },
+    "dependencies": {
+        "request": "^2.65.0"
+    },
+    "bugs": {
+        "url": "git://github.com/abataille/homebridge-lightify-native/issues"
+    },
+    "homepage": "git://github.com/abataille/homebridge-lightify-native#readme",
+    "_id": "git://github.com/abataille/homebridge-lightify-native@0.0.1",
+
+
+    "directories": {},
+
+    "readme": "ERROR: No README data found!"
+}

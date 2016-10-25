@@ -18,7 +18,9 @@
         "url": "git://github.com/abataille/homebridge-lightify-native.git"
     },
     "dependencies": {
-        "request": "^2.65.0"
+        "request": "^2.65.0",
+        "node-lightify": "^0.0.9",
+        "colorsys": "^1.0.9"
     },
     "bugs": {
         "url": "git://github.com/abataille/homebridge-lightify-native/issues"
